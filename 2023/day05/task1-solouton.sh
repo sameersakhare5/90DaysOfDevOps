@@ -1,4 +1,4 @@
-  GNU nano 6.2                                                                task1-soloution.sh                                                                          
+                                                                                                                                       
   #!/bin/bash
 name = "day"
 echo "enter the starting number"
